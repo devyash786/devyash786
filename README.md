@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devyash786
+- 👋 Hi, I’m Dev Yash
 - 👀 I’m interested in Cloud Engineer and SDE
 - 🌱 I’m currently learning .Net and C#
 - 💞️ I’m looking to collaborate on projects
