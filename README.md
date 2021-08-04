@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dev Yash
 - 👀 I’m interested in Cloud Engineer and SDE
-- 🌱 I’m currently learning .Net and C#
+- 🌱 I’m currently learning Apache Spark
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me dysaxena786@gmail.com
 
